@@ -47,6 +47,7 @@ def new_logic():
     :rtype: logic
     """
     app = logic.new_logic()
+    
     return app
 
 
